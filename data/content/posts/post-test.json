@@ -1,0 +1,9 @@
+{
+  "title": "Post title",
+  "author": "Anne Doyle",
+  "status": "draft",
+  "body": "This is the content",
+  "slug": "/post/test",
+  "hero": "",
+  "tag": ""
+}
