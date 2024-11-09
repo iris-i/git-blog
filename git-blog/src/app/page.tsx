@@ -1,11 +1,10 @@
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
+import SignIn from "@/components/SignInButton";
 
 export default function Home() {
   return (
     <main className="container mx-auto">
       <h1>Welcome to the main page</h1>
-      <Button size='lg'>Test button</Button>
+      <SignIn />
     </main>
   );
 }
